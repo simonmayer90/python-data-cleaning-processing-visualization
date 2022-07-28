@@ -1,5 +1,5 @@
 # Eniac Dataprocessing
-This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/).  Other datascience projects can be found at the [main GitHub repo](https://github.com/tobiasaurer).
+This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/).  Other datascience projects can be found at the [main GitHub repo](https://github.com/simonmayer90).
 
 #### Project Status: Completed
 
@@ -30,18 +30,18 @@ Main goals of the project:
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/tobiasaurer/python-eniac-dataprocessing/tree/main/raw_data) within this repo. 
-3. Cleaned Data is being kept [here](https://github.com/tobiasaurer/python-eniac-dataprocessing/tree/main/cleaned_data) within this repo.
-3. Data processing/transformation notebooks are being kept [here](https://github.com/tobiasaurer/python-eniac-dataprocessing) at the parent level of this repo.
-4. Visualisations are sorted in categories and saved [here](https://github.com/tobiasaurer/python-eniac-dataprocessing/tree/main/visualisations)
+2. Raw Data is being kept [here](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/tree/main/raw_data) within this repo. 
+3. Cleaned Data is being kept [here](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/tree/main/cleaned_data) within this repo.
+3. Data processing/transformation notebooks are being kept [here](https://github.com/simonmayer90/python-data-cleaning-processing-visualization) at the parent level of this repo.
+4. Visualisations are sorted in categories and saved [here](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/tree/main/visualisations)
 
 ## Featured Notebooks/Deliverables
-* [Data-Preparation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_datapreparation.ipynb)
-* [Data-Visualisation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_visualisations.ipynb)
-* [Final Presentation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/final_presentation/eniac_final_presentation.pdf)
+* [Data-Preparation](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/blob/main/eniac_datapreparation.ipynb)
+* [Data-Visualisation](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/blob/main/eniac_visualisations.ipynb)
+* [Final Presentation](https://github.com/simonmayer90/python-data-cleaning-processing-visualization/blob/main/final_presentation/eniac_final_presentation.pdf)
 
 ## Contributing Members  
-Orjada, [Simon (github)](https://github.com/simonmayer90)
+Orjada, [Tobias (github)](https://github.com/tobiasaurer)
 
 ## Contact
-* https://github.com/tobiasaurer
+* https://github.com/simonmayer90
